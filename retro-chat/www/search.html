@@ -1,0 +1,12 @@
+<div class="search">
+    <div class="search-info">
+        <input type="text" class="text-field" placeholder="search for user" ng-model="search" />
+        <div ng-repeat="user in users | filter: search" ng-show="search">
+            <div class="search-user" ng-click="setUser(user.id)">
+                <div class="search-result-img"><img ng-src="{{user.image}}"/></div>
+                <div class="label">{{user.userName}}</div>
+            </div>
+        </div>
+    </div>
+    <!--<pre class="debug">{{users | json}}</pre>-->
+</div>

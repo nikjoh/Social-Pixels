@@ -1,0 +1,11 @@
+<div class="home">
+    <div class="home-info">
+        <div class="home-profile"><img ng-src="{{userInfo.Image}}" /></div>
+        <span>{{username}}</span>
+    </div>
+    <hr />
+    <div class="home-posts" ng-repeat="item in posts track by $index">
+        <a ng-href="post" ng-click="setPost(id, item.id)"><img class="home-posts-img" ng-src="{{item.image}}" /></a>
+    </div>
+    <!--<pre class="debug">{{data | json}}</pre>-->
+</div>

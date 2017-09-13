@@ -1,0 +1,28 @@
+
+
+<script type="text/javascript">
+
+    var connection = $.hubConnection();
+    connection.url = 'http://retrochatrestapi.azurewebsites.net/signalr';
+    var chatHub = connection.createHubProxy('chatHub');
+    chatHub.on('MessageReciever', function (message) {
+        $("#log").append("<p>" + message + "</p>");
+    });
+
+    connection.start().done(function () {
+        $('#send').click(function () {
+            chatHub.invoke('broadCastMessage', localStorage['username'] + ": " + $('#input').val());
+            $('#input').val('').focus();
+        });
+    });
+
+
+</script>
+<div class="chat">
+    <div class="chat-menu">
+        <input type="text" class="text-field" placeholder="Enter message here" id="input">
+        <input type="button" class="input-button" id="send" value="Send">
+    </div>
+    <!--<label id="nrUsers"></label>-->
+    <div id="log"></div>
+</div>

@@ -1,0 +1,11 @@
+C:\Users\Administrator\Source\Repos\RetroChatRestApi\RetroChatRestApi\bin\Debug\netcoreapp2.0\RetroChatRestApi.deps.json
+C:\Users\Administrator\Source\Repos\RetroChatRestApi\RetroChatRestApi\bin\Debug\netcoreapp2.0\RetroChatRestApi.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\RetroChatRestApi\RetroChatRestApi\bin\Debug\netcoreapp2.0\RetroChatRestApi.runtimeconfig.dev.json
+C:\Users\Administrator\Source\Repos\RetroChatRestApi\RetroChatRestApi\bin\Debug\netcoreapp2.0\RetroChatRestApi.dll
+C:\Users\Administrator\Source\Repos\RetroChatRestApi\RetroChatRestApi\bin\Debug\netcoreapp2.0\RetroChatRestApi.pdb
+C:\Users\Administrator\Source\Repos\RetroChatRestApi\RetroChatRestApi\obj\Debug\netcoreapp2.0\RetroChatRestApi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\RetroChatRestApi\RetroChatRestApi\obj\Debug\netcoreapp2.0\RetroChatRestApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\RetroChatRestApi\RetroChatRestApi\obj\Debug\netcoreapp2.0\RetroChatRestApi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\RetroChatRestApi\RetroChatRestApi\obj\Debug\netcoreapp2.0\RetroChatRestApi.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\RetroChatRestApi\RetroChatRestApi\obj\Debug\netcoreapp2.0\RetroChatRestApi.dll
+C:\Users\Administrator\Source\Repos\RetroChatRestApi\RetroChatRestApi\obj\Debug\netcoreapp2.0\RetroChatRestApi.pdb

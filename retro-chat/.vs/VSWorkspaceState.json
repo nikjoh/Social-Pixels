@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\plugins\\cordova-plugin-camera",
+    "\\plugins\\cordova-plugin-camera\\src",
+    "\\plugins\\cordova-plugin-camera\\src\\wp",
+    "\\www",
+    "\\www\\css",
+    "\\www\\font",
+    "\\www\\js",
+    "\\www\\js\\chat"
+  ],
+  "SelectedNode": "\\www\\css\\style.css",
+  "PreviewInSolutionExplorer": false
+}

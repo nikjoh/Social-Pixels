@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!--<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">-->
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>Retro Chat</title>
+    <!--<base href="/">--> <!--For Browser-->
+    <!--<base href="/android_asset/www/"/>--> <!--For Android-->
+</head>
+<body>
+    <label>Login</label>
+    <br />
+    <input type="text" placeholder="E-mail" id="login-name" />
+    <br />
+    <label>Password</label>
+    <br />
+    <input type="text" placeholder="Password" id="login-password" />
+    <br />
+    <input type="button" id="loginButton" value="Login" />
+
+    <script src="cordova.js"></script>   <!-- for production -->
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/login.js"></script>
+</body>
+</html>
