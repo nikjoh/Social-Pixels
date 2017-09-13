@@ -2,6 +2,7 @@
 Slutprojekt Academy
 
 This is a social media chatt app i've created for my final project  @ Academy-Stockholm.
+
 Currently working features:
 - User registration, to access the application.
 - Home page, where the user can add posts (Image with a text).
@@ -28,8 +29,9 @@ Backend:
 - MS SQL
 - Hosted on Azure. 
 
--Available Platforms: 
-Browser and Android
+Available Platforms: 
+- Browser
+- Android
 
 Android version:
 https://play.google.com/store/apps/details?id=com.nixonsworld.socialpixels
