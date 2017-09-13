@@ -21,11 +21,12 @@ Frontend:
 - AngularJS, singlepage application with view injection.
 - AJAX for server requests.
 
--Backend:
-ASP.NET CORE 2.0 MVC Web API
-SignalR
-MS SQL
-Hosted on Azure. 
+Backend:
+- ASP.NET CORE 2.0 MVC Web API
+- Entity Framework
+- SignalR
+- MS SQL
+- Hosted on Azure. 
 
 -Available Platforms: 
 Browser and Android
