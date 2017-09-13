@@ -17,6 +17,7 @@ Comming features (when time is on my side):
 - push notification, when user gets a private message, like och comment.
 
 Technical stuff
+
 Frontend:
 - Cordova (HTML, CSS, Javascript)
 - AngularJS, singlepage application with view injection.
