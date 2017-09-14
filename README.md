@@ -38,6 +38,6 @@ Android version:
 https://play.google.com/store/apps/details?id=com.nixonsworld.socialpixels
 
 Browser version:
-http://nixonsworld.com
+http://social-pixels.bitballoon.com
 
 // Niklas Johansson Skälläftä
